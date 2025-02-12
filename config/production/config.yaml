@@ -2,6 +2,11 @@
 
 baseURL: https://johansenn-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 0ea6586c-d479-449b-9ac8-65d88fd44b4c
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
